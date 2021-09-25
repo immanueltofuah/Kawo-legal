@@ -14,8 +14,6 @@ ul li{
     color: rgb(165, 17, 17);
     background-color: #f8f9fa00 !important;
     margin-top: 30px;
-    text-decoration: underline;
-    
 }
 .back-image {
     background-image: linear-gradient(rgba(73,0,0,0.700), rgba(73,0,0,0.700)), url(../images/24.jpg);
@@ -29,7 +27,7 @@ ul li{
 house {
     border: 1px brown;
 }
-
+}
 
 .icon {
     background: rgba(165, 42, 42, 0);
