@@ -10,6 +10,7 @@
     color: rgb(160, 35, 35);
     margin-top: 35px;
     margin-left: 10px;
+    text-decoration: underline;
 }
 .see { 
     display: inline-block;
